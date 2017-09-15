@@ -8,12 +8,12 @@
 
 ## Как работаем?
 
-* [IDE, Mono, .NET]()
-* [Git, GitFlow, GitHub, Git Projects, Git issues]()
+* [IDE, Mono, .NET](IDE.md)
+* [Git, GitFlow, GitHub, Git Projects, Git issues](Git.md)
 
 #### Правила
-* [Стайлгайд]()
-* [Архитектура]()
+* Стайлгайд
+* [Архитектура](https://drive.google.com/file/d/0B0YEMCLGZLEndlF2c0o5MGhnZ2M/view)
 
 #### Приложение
 * Литература
