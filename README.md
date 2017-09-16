@@ -12,8 +12,17 @@
 * [Git, GitFlow, GitHub, Git Projects, Git issues](Git.md)
 
 #### Правила
-* Стайлгайд
-* [Архитектура](https://drive.google.com/file/d/0B0YEMCLGZLEndlF2c0o5MGhnZ2M/view)
+* [Стайлгайд](Styleguide.md)
+* [Архитектура](Arch.md)
+
+#### Начинаем
+1. Копируем себе репозиторой `git clone https://github.com/egorzainullin/REAL.NET`
+2. Запускаем проект в Visual Studio или запускам скрипт 'build.sh' (Linux) или 'build.cmd' (Windows) 
+(Репозиторой использует [Project Scaffold](https://github.com/fsprojects/ProjectScaffold))
+
+#### О .NET
+* [C#](https://docs.microsoft.com/ru-ru/dotnet/csharp/programming-guide/index)
+* [F#](http://fsharp.org)
 
 #### Приложение
 * Литература
