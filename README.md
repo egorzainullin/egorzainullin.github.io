@@ -5,6 +5,8 @@
 * [Прочитать больше о новом проекте](https://github.com/yurii-litvinov/articles/blob/master/2017-realNet/realNet.pdf)  
 * [Что такое графический язык?](https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
 * [Статья про Qreal](https://github.com/qreal/articles/blob/master/2013-dsm-platform/text.pdf) 
+* [Ссылки на репозиторий проекта](https://github.com/yurii-litvinov/REAL.NET)
+* [Ссылка на рабочий форк проекта](https://github.com/egorzainullin/REAL.NET)
 
 ## Как работаем?
 
