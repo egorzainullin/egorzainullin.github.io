@@ -20,7 +20,6 @@
 2. Запускаем проект в Visual Studio или запускам скрипт 'build.sh' (Linux) или 'build.cmd' (Windows) 
 (Репозиторой использует [Project Scaffold](https://github.com/fsprojects/ProjectScaffold))
 
-<<<<<<< HEAD
 #### Присоединяемся к чату
 * Чат в гиттере [![Join the chat at https://gitter.im/REAL-NET/Lobby](https://badges.gitter.im/REAL-NET/Lobby.svg)](https://gitter.im/REAL-NET/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -28,11 +27,6 @@
 * [C#](https://docs.microsoft.com/ru-ru/dotnet/csharp/programming-guide/index)
 * [F#](http://fsharp.org)
 * [Задания для тренировки](Task.md)
-=======
-#### О .NET
-* [C#](https://docs.microsoft.com/ru-ru/dotnet/csharp/programming-guide/index)
-* [F#](http://fsharp.org)
->>>>>>> 9bf2c351f650a499c21db8d95f34d2a39c301911
 
 #### Приложение
 * Литература
