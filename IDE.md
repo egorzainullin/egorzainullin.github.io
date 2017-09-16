@@ -1,8 +1,8 @@
 [На главную](README.md)
 
 ## Windows & Mac
-* [Visual Studio]()
-* [Visual Studio for Mac]()
+* [Visual Studio](https://www.visualstudio.com)
+* [Visual Studio for Mac](https://www.visualstudio.com/vs/visual-studio-mac/)
 * Расширения Paket и NUnit Test Adapter
 
 ## Linux
