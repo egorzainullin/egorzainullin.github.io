@@ -26,7 +26,7 @@
 #### О .NET
 * [C#](https://docs.microsoft.com/ru-ru/dotnet/csharp/programming-guide/index)
 * [F#](http://fsharp.org)
-* Задания для тренировки
+* [Задания для тренировки](Task.md)
 
 #### Приложение
 * Литература
