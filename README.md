@@ -22,7 +22,6 @@
 
 #### Присоединяемся к чату
 * Чат в гиттере [![Join the chat at https://gitter.im/REAL-NET/Lobby](https://badges.gitter.im/REAL-NET/Lobby.svg)](https://gitter.im/REAL-NET/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-* [Чат в telegram](https://t.me/joinchat/De1o6wr5CVD-wi1tmtINBA)
 
 #### О .NET
 * [C#](https://docs.microsoft.com/ru-ru/dotnet/csharp/programming-guide/index)
